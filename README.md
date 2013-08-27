@@ -4,14 +4,14 @@ A simple shooting made in Unity3d game Studio.
 
 ## Usage
 
-If you have a working Unity3d Game Studio, then just run the file "Shooter v5/unitypackage".
+If you have a working Unity3d Game Studio, then just run the file "Shooter v5.unitypackage".
 
 ## GAME STRUCTURE:
 
 ### CONTROL
 
 The user navigate a player object using RIGHT and LEFT arrow key to move the player horizontally. The player object will move accordingly.
-In the desired position, user could make the player shoot a bullet using UP arrow key. BEWARE that some enemy could retaliate and launch a counter attack by shooting bullets to player’s position. 
+In the desired position, user could make the player shoot a bullet using UP arrow key. BEWARE that some enemy could retaliate and launch a counter attack by shooting bullets to playerï¿½s position. 
 
 ### SCORING
 
